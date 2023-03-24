@@ -1,0 +1,20 @@
+main.news .main{
+    padding-bottom: 50px;
+}
+main.news .main .main-content{
+    padding: 20px 0;
+}
+main.news .main .main-content .card{
+    font-family: OpenSans-R;
+    color: black;
+    border: none;
+    border-bottom: 1px groove #bbbbbbbb;
+    border-radius: 0;
+}
+main.news .main .main-content .card .img{
+    padding: 1px;
+    border: 1px groove #eaeaeabb;
+}
+main.news .main .main-content .card .text-content{
+    font-size: 14px;
+}

@@ -1,0 +1,27 @@
+main.products .main{
+    padding-bottom: 30px;
+}
+main.product .main .img-title a{
+    text-decoration: none;
+    padding-right: 15px;
+    font-size: 14px;
+    color: black;
+}
+main.products .main .main-content a{
+    text-decoration: none;
+    color: black;
+}
+main.products .main .main-content .card{
+    border-radius: 0;
+    padding-top: 4px;
+}
+main.products .main .main-content .name{
+    text-align: center;
+    margin-bottom:0px;
+    font-size: 14px;
+} 
+main.products .main .main-content .price{
+    color:#46ad0e ;
+    text-align: center;
+    font-size: 14px;
+}
